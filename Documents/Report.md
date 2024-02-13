@@ -12,4 +12,4 @@
 * Успешные: 90% (9)
 * Неуспешные: 10% (1)
 ### Очёт по результатам тестирования
-Отчёт по результатам тестирования <a href="https://github.com/Ash196/DemoblazeStore/issues/1>Allure</a>
+Отчёт по результатам тестирования <a href="https://github.com/Ash196/DemoblazeStore/issues/1">Allure</a>
